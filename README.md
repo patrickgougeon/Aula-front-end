@@ -1,1 +1,1 @@
-# Aula-front-end
+Um exemplo de repositório para aprendermos sobre github.
